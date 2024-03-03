@@ -1,12 +1,12 @@
 # Assembly Calculator and System of Linear Equations
 
-This repository houses a collection of assembly code implementations designed for solving system of linear equations and performing calculations on 512-bit integers, Coded for IBM s/390x and Intel x86 processors.
+This repository houses a collection of assembly code implementations designed for solving system of linear equations and performing calculations on 256-bit integers, Coded for IBM s/390x and Intel x86 processors.
 
 ## Features
 
 - **System of Linear Equations Solver**: This solver is tailored for IBM s/390x and Intel x86 processors, offering efficient solutions to linear equation systems.
   
-- **512-bit Integer Calculator**: Designed for IBM s/390x and Intel x86 processors, this calculator utilizes multiple registers and combines them to execute common 256-bit calculations.
+- **256-bit Integer Calculator**: Designed for IBM s/390x and Intel x86 processors, this calculator utilizes multiple registers and combines them to execute common 256-bit calculations.
 
 - **Optimized Performance**: The Intel x86 solver leverages AVX2 SIMD floating-point extensions for parallel processing, ensuring faster computation times.
 
